@@ -9,7 +9,7 @@ The **Beachside Battery Bots** (Team #32357) is a nonprofit FIRST Robotics team 
 
 Students will learn skills in engineering, programming, collaboration, and more as we compete in the FIRST Tech Challenge. We welcome and encourage all students to join regardless of skill or experience.
 
-Students must follow the Beachside Robotics Club [Bylaws]
+Students must follow the Beachside Robotics Club [Bylaws](robotics_26-27_bylaws.pdf)
 
 ### Our Mission
 The **Beachside Battery Bots** strive to provide students hands on experiences and opportunities in technology and focusing on innovation, problem solving, computer-aided design, teamwork, and competition. Our goal is to inspire young people in our community to explore various careers in STEM fields.
@@ -22,4 +22,4 @@ For more information about the FIRST Tech Challenge, visit the [FTC Website](htt
 ## Supporting Our Team
 If you wish to support our team through donations, mentorship, or food donations please contact us at batterybots.bhs@gmail.com
 
-For more information on how you can help or the various benefits we offer, please read our [Sponsorship Packet]
+For more information on how you can help or the various benefits we offer, please read our [Sponsorship Packet](Sponsorship-Packet.pdf)
