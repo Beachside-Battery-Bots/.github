@@ -22,4 +22,4 @@ For more information about the FIRST Tech Challenge, visit the [FTC Website](htt
 ## Supporting Our Team
 If you wish to support our team through donations, mentorship, or food donations please contact us at batterybots.bhs@gmail.com
 
-For more information on how you can help or the various benefits we offer, please read our [Sponsorship Packet](Sponsorship-Packet.pdf)
+For more information on how you can help or the various benefits we offer, please read our [Sponsorship Packet](https://drive.google.com/file/d/1H2XRawa41JxRrwG9GlQ38LqIItvn7yhh/view?usp=sharing)
